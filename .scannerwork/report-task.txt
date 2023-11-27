@@ -1,0 +1,6 @@
+projectKey=Tarea-6-SCA
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=Tarea-6-SCA
+ceTaskId=AYwPYEb5KGcq0UZYBAro
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYwPYEb5KGcq0UZYBAro
